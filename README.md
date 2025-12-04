@@ -4,7 +4,7 @@ FlexiBot is a modern, AI-powered Demand Response (DR) management system designed
 
 Built with React and powered by Google's Gemini AI, FlexiBot provides a "No Wire" alternative for smart grid management, focusing on data-driven insights and user engagement.
 
-![FlexiBot Dashboard](https://via.placeholder.com/800x450?text=FlexiBot+Dashboard+Preview)
+![FlexiBot Dashboard](http://localhost:5173/)
 
 ## 🚀 Features
 
